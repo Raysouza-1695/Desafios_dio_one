@@ -1,4 +1,6 @@
 # Liberdade Financeira Para Iniciantes💰 
+📂Link NotebookLM
+**https://notebooklm.google.com/notebook/b890b904-6aaa-4e5b-a62c-5f6af6729269**
 
 A **liberdade financeira** para iniciantes é definida como o estado em que o rendimento de seus ativos investidos é suficiente para sustentar seu padrão de vida sem que você dependa de um salário ou do trabalho obrigatório para sobreviver. Ter dinheiro, nesse contexto, significa ter **poder de escolha e tempo**, permitindo que você decida com o que, quando e com quem deseja passar sua vida.
 
@@ -27,3 +29,4 @@ Para multiplicar o capital, o investidor deve entender três conceitos: **ativos
 *   **Desconfie de Promessas:** Evite esquemas de enriquecimento rápido ou pirâmides financeiras; o mercado premia a **paciência e a disciplina**.
 *   **Educação Contínua:** Invista na sua própria capacidade de geração de renda (habilidades) e estude os mercados em que coloca seu dinheiro.
 *   **Margem de Segurança:** Sempre planeje com uma margem para imprevistos, garantindo que você possa sobreviver a quedas temporárias do mercado sem precisar vender seus ativos no prejuízo.
+
