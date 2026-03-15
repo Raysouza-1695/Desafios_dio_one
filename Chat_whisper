@@ -53,6 +53,9 @@ record_file = record()
 # Exibe o áudio gravado
 display(Audio(record_file, autoplay=False))
 
+ #Audio gravado: Em poucas palavras, o que é Python?
+
+
 2. Reconhecimento de Fala com Whisper (OpenAI) 
 !pip install git+https://github.com/openai/whisper.git -q
 import whisper
@@ -65,3 +68,5 @@ model = whisper.load_model("small")
 result = model.transcribe(record_file, fp16=False, language=language)
 transcription = result["text"]
 print(transcription)
+
+#Audio transcrito: Em poucas palavras, o que é Python?
